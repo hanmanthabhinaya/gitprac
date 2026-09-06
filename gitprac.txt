@@ -8,3 +8,6 @@ after
 push 
 in 
 GitHub
+changes
+doing directly in
+github
